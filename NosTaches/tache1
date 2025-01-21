@@ -1,4 +1,5 @@
-1-Méthode de rotation par vitesses différentielles
+<u>**1-Méthode de rotation par vitesses différentielles**</u>
+
 
     Principe :
         Si les deux roues tournent à des vitesses identiques, le robot avance en ligne droite.
@@ -11,7 +12,7 @@ Exemple de vitesses :
     Rotation vers la gauche : Vitesse gauche = -5, Vitesse droite = 5.
     Courbe douce vers la droite : Vitesse gauche = 10, Vitesse droite = 5.
 
-2. Tâches à réaliser :
+<u>**2. Tâches à réaliser :**</u>
 
     Tracer un carré :
         Avancer en ligne droite pendant une certaine distance.
@@ -26,7 +27,7 @@ Exemple de vitesses :
         Utiliser la caméra pour repérer la balise (par exemple, une couleur ou une forme spécifique).
         Ajuster la direction en fonction de la position relative de la balise dans le champ de vision.
 
-3. Simulation dans la console :
+<u>**3. Simulation dans la console :**</u>
 
 La simulation représentera :
 
@@ -39,7 +40,7 @@ Les capteurs seront simulés :
     Capteur de distance : Retourne une distance au mur selon la direction actuelle.
     Caméra : Simule la détection d’une balise en donnant une position relative sur la grille.
 
-4. Étapes pour coder la simulation :
+<u>**4. Étapes pour coder la simulation :**</u>
 
     Représentation des éléments :
         Un point pour le robot et deux points pour les roues.
