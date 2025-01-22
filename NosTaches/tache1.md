@@ -56,3 +56,5 @@ Les capteurs seront simulés :
 
     Tâches simulées :
         Implémenter les trois tâches définies (tracer un carré, approcher un mur, suivre une balise).
+![9d7e52b5-2304-45c6-ac8d-dec30da333b8](https://github.com/user-attachments/assets/5204d00b-a0d0-4249-b7be-1ff512c06926)
+
